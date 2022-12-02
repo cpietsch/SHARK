@@ -1,6 +1,6 @@
 # from models.resnet50 import resnet_inf
 # from models.albert_maskfill import albert_maskfill_inf
-from models.stable_diffusion.main import stable_diff_inf
+from web.models.stable_diffusion.main import stable_diff_inf
 
 # from models.diffusion.v_diffusion import vdiff_inf
 import gradio as gr
